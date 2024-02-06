@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
+- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/blog-preview-card-1HCDC0qqrg)
 
 - Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/Blog-Preview-Card)
 
